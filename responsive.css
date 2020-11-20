@@ -1,0 +1,11 @@
+@media all and (max-width: 650px) {
+  .header-right {
+    display: none;
+  }
+  .menu-icon {
+    display: block;
+  }
+  h1 {
+    font-size: 28px;
+  }
+}
