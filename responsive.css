@@ -9,3 +9,8 @@
     font-size: 28px;
   }
 }
+@media all and (max-width: 400px) {
+  h1 {
+    font-size: 21px;
+  }
+}
