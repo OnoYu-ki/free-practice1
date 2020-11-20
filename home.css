@@ -63,3 +63,11 @@ footer p {
   margin: 0;
   font-size: 32px;
   line-height: 80px;
+}
+.menu-icon {
+  color: aliceblue;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  display: none;
+}
